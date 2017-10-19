@@ -7,7 +7,7 @@ Released by: Ian Kirkman ikirkman@uw.edu 10/19/2017
 The goal of this assignment is to analyze traffic on English Wikipedia over time, and then document the process and the resulting dataset and visualization according to best practices for open research that were outlined in class.
 
 ## License Info
- - The raw data was accessed from the Wikimedia Foundation API, with [terms of use](https://wikimediafoundation.org/wiki/Terms_of_Use/en).
+ - The raw data was accessed from the Wikimedia Foundation API, under their [terms of use](https://wikimediafoundation.org/wiki/Terms_of_Use/en).
  - The content of this project directory is released under the [MIT license](LICENSE.md).
 
 ## Data Sources
